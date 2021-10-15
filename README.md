@@ -32,3 +32,5 @@ root                    (project root folder)
 
 ## Authors
 * 
+Scott Thompson 
+Email: scottathompson98@gmail.com
